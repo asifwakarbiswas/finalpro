@@ -19,6 +19,4 @@ here i create a fashion store web apps named dress-up that helps the costumer to
 ![image](https://user-images.githubusercontent.com/91595824/189598259-72ee22f5-4d53-4f7a-9fbb-3bd3800df846.png)
 
 
-## Azure portal screen shot
- ![Screenshot 2022-06-01 094718](https://user-images.githubusercontent.com/106524124/171327269-df4ce149-228a-495e-a6d1-11b7e1e0637c.png)
 
